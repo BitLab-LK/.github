@@ -1,5 +1,11 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BitLab-LK/BitLab-LK/refs/heads/main/bl-dark-logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BitLab-LK/BitLab-LK/refs/heads/main/bl-light-logo.png">
+  <img alt="BitLab (Pvt) Ltd Logo" src="https://raw.githubusercontent.com/BitLab-LK/BitLab-LK/refs/heads/main/bl-light-logo.png" width="280">
+</picture>
+
 # BitLab (Pvt) Ltd
 
 **Engineering Scalable, Modern Digital Solutions**
@@ -33,16 +39,16 @@
 | Layer | Technologies & Tools |
 | :--- | :--- |
 | **Frontend** | React, Next.js, Vue.js, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, Go, Python, Java / Spring Boot, PHP / Laravel |
+| **Backend** | Node.js, Go, Python, PHP / Laravel |
 | **Mobile** | Flutter, React Native, Kotlin, Swift |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
-| **DevOps & Cloud** | Docker, Kubernetes, GitHub Actions, AWS, Terraform |
+| **DevOps & Cloud** | Docker, Kubernetes, GitHub Actions, AWS, Cloudflare |
 
 ---
 
 ## Open Source & Community
 
-We believe in modular architecture and contributing back to the developer ecosystem. 
+We believe in modular architecture and contributing back to the developer ecosystem.
 
 * Check out our public repositories below for internal libraries, open-source utilities, and boilerplates.
 * Found a bug or want to contribute? Feel free to open an issue or submit a pull request on any of our public projects.
@@ -55,4 +61,4 @@ Interested in collaborating or hiring our team for your next build?
 
 * **Website:** [bitlab.lk](https://bitlab.lk)
 * **Email:** [contact@bitlab.lk](mailto:contact@bitlab.lk)
-* **Location:** Sri Lanka
+* **Location:** Maharagama & Anuradhapura, Sri Lanka
