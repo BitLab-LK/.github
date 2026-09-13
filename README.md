@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BitLab-LK/BitLab-LK/refs/heads/main/bl-dark-logo.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BitLab-LK/BitLab-LK/refs/heads/main/bl-light-logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BitLab-LK/BitLab-LK/refs/heads/main/bl-dark-logo.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BitLab-LK/BitLab-LK/refs/heads/main/bl-light-logo.png">
   <img alt="BitLab (Pvt) Ltd Logo" src="https://raw.githubusercontent.com/BitLab-LK/BitLab-LK/refs/heads/main/bl-light-logo.png" width="280">
 </picture>
 
