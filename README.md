@@ -12,12 +12,9 @@
 
 *Engineering Scalable Digital Solutions, Cloud Infrastructure & Modern Web Systems*
 
-[![Website](https://img.shields.io/badge/Website-bitlab.lk-blue?style=flat-square)](https://www.bitlab.lk)
+[![Website](https://img.shields.io/badge/Website-bitlab.lk-blue?style=flat-square)](https://bitlab.lk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-click.bitlab.lk-purple?style=flat-square)](https://click.bitlab.lk)
 [![GitHub](https://img.shields.io/badge/GitHub-BitLab--LK-181717?style=flat-square&logo=github)](https://github.com/BitLab-LK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BitLab-0A66C2?style=flat-square&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/company/bitlab-lk/))
-[![Facebook](https://img.shields.io/badge/Facebook-BitLab-1877F2?style=flat-square&logo=facebook)]([https://facebook.com](https://www.facebook.com/bitlab.lk))
-[![Instagram](https://img.shields.io/badge/Instagram-BitLab-E4405F?style=flat-square&logo=instagram)]([https://instagram.com](https://www.instagram.com/bitlab.lk))
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Connect-25D366?style=flat-square&logo=whatsapp)](https://wa.me/94710202333)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
@@ -79,9 +76,6 @@ We believe in contributing back to the global engineering community:
 | :--- | :--- |
 | 🌐 **Official Website** | [bitlab.lk](https://bitlab.lk) |
 | 🔗 **Linktree / Portfolio** | [click.bitlab.lk](https://click.bitlab.lk) |
-| 💼 **LinkedIn** | [BitLab on LinkedIn](https://linkedin.com) |
-| 📘 **Facebook** | [BitLab on Facebook](https://facebook.com) |
-| 📸 **Instagram** | [BitLab on Instagram](https://instagram.com) |
 | 💬 **WhatsApp** | [+94 71 020 2333](https://wa.me/94710202333) |
 | ✉️ **Email** | [contact@bitlab.lk](mailto:contact@bitlab.lk) |
 | 📍 **Branches** | Colombo & Anuradhapura, Sri Lanka |
