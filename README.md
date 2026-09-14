@@ -3,16 +3,22 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BitLab-LK/BitLab-LK/refs/heads/main/bl-dark-logo.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BitLab-LK/BitLab-LK/refs/heads/main/bl-light-logo.png">
-  <img alt="BitLab (Pvt) Ltd Logo" src="https://raw.githubusercontent.com/BitLab-LK/BitLab-LK/refs/heads/main/bl-light-logo.png" width="280">
+  <img alt="BitLab Logo" src="https://raw.githubusercontent.com/BitLab-LK/BitLab-LK/refs/heads/main/bl-light-logo.png" width="300">
 </picture>
 
 # BitLab (Pvt) Ltd
 
-**Engineering Scalable, Modern Digital Solutions**
+### **We Make It Happen**
+
+*Engineering Scalable Digital Solutions, Cloud Infrastructure & Modern Web Systems*
 
 [![Website](https://img.shields.io/badge/Website-bitlab.lk-blue?style=flat-square)](https://bitlab.lk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-click.bitlab.lk-purple?style=flat-square)](https://click.bitlab.lk)
 [![GitHub](https://img.shields.io/badge/GitHub-BitLab--LK-181717?style=flat-square&logo=github)](https://github.com/BitLab-LK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BitLab-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Facebook](https://img.shields.io/badge/Facebook-BitLab-1877F2?style=flat-square&logo=facebook)](https://facebook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-BitLab-E4405F?style=flat-square&logo=instagram)](https://instagram.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Connect-25D366?style=flat-square&logo=whatsapp)](https://wa.me/94710202333)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 ---
@@ -21,44 +27,67 @@
 
 ## About Us
 
-**BitLab (Pvt) Ltd** is a technology solutions provider focused on building high-performance, secure, and maintainable software systems. We specialize in end-to-end digital engineering—from cloud-native architectures and web/mobile development to enterprise systems integration.
+**BitLab (Pvt) Ltd** is a digital solutions and software engineering company based in Sri Lanka. Guided by our core belief **"We Make It Happen"**, we partner with forward-thinking brands, studios, and enterprises to architect, engineer, and deploy high-availability digital products and business systems.
 
 ---
 
-## What We Do
+## Featured Client Builds & Solutions
 
-* **Custom Software Development:** Modern web, mobile, and backend microservices tailored to business workflows.
-* **Cloud Architecture & DevOps:** Resilient infrastructure setup, CI/CD pipelines, and cloud migration (AWS, GCP, Azure).
-* **API & Systems Integration:** Secure, scalable REST and GraphQL interfaces connecting third-party platforms.
-* **Technical Consulting:** Code reviews, performance tuning, and digital transformation roadmaps.
+A snapshot of live digital platforms, web systems, and brand architectures built by BitLab:
+
+* **Enterprise & Cloud Systems:** M365 Docs, Skinet (Pvt) Ltd
+* **Design & Architectural Studios:** Nomad Architecture Studio, Archalley, VANNi Architecture Studio
+* **Commerce & Lifestyle Systems:** Maison Privee Arabia, SMS Pet Grooming, Lankora
+* **Industrial & Export Platforms:** Rajanganaya Coco Products
+
+Explore our interactive link portal and showcase at **[click.bitlab.lk](https://click.bitlab.lk/)**.
 
 ---
 
-## Tech Stack & Core Competencies
+## Core Capabilities
 
-| Layer | Technologies & Tools |
+* **Full-Stack Web & App Development:** High-performance web applications, responsive digital platforms, and microservices.
+* **Business Systems & Automation:** Workflow automation, internal tooling, and multi-tenant SaaS architectures.
+* **Cloud & Security Engineering:** Cloudflare Zero Trust/DNS setup, CI/CD pipelines, containerization, and AWS infrastructure management.
+* **Digital Identity & Strategy:** Systems integration, branding architecture, and digital transformation.
+
+---
+
+## Tech Stack & Tooling
+
+| Layer | Technologies & Frameworks |
 | :--- | :--- |
-| **Frontend** | React, Next.js, Vue.js, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, Go, Python, PHP / Laravel |
-| **Mobile** | Flutter, React Native, Kotlin, Swift |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
-| **DevOps & Cloud** | Docker, Kubernetes, GitHub Actions, AWS, Cloudflare |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Elementor / Modern WP |
+| **Backend** | PHP (Laravel), Node.js, Python, REST & GraphQL APIs |
+| **Databases** | MySQL, PostgreSQL, Redis |
+| **Cloud & DevOps** | Cloudflare, Docker, AWS, GitHub Actions |
 
 ---
 
 ## Open Source & Community
 
-We believe in modular architecture and contributing back to the developer ecosystem.
+We believe in contributing back to the global engineering community:
 
-* Check out our public repositories below for internal libraries, open-source utilities, and boilerplates.
-* Found a bug or want to contribute? Feel free to open an issue or submit a pull request on any of our public projects.
+* Explore our public repositories for open toolkits, UI boilerplate templates, and internal modules.
+* Contributions, issues, and feature suggestions are welcome on all public repositories.
 
 ---
 
-## Get in Touch
+## Connect With Us
 
-Interested in collaborating or hiring our team for your next build?
+| Platform | Channel |
+| :--- | :--- |
+| 🌐 **Official Website** | [bitlab.lk](https://bitlab.lk) |
+| 🔗 **Linktree / Portfolio** | [click.bitlab.lk](https://click.bitlab.lk) |
+| 💼 **LinkedIn** | [BitLab on LinkedIn](https://linkedin.com) |
+| 📘 **Facebook** | [BitLab on Facebook](https://facebook.com) |
+| 📸 **Instagram** | [BitLab on Instagram](https://instagram.com) |
+| 💬 **WhatsApp** | [+94 71 020 2333](https://wa.me/94710202333) |
+| ✉️ **Email** | [contact@bitlab.lk](mailto:contact@bitlab.lk) |
+| 📍 **Branches** | Colombo & Anuradhapura, Sri Lanka |
 
-* **Website:** [bitlab.lk](https://bitlab.lk)
-* **Email:** [contact@bitlab.lk](mailto:contact@bitlab.lk)
-* **Location:** Maharagama & Anuradhapura, Sri Lanka
+---
+
+<div align="center">
+  <sub>© BitLab (Pvt) Ltd · PV00251261 · All rights reserved.</sub>
+</div>
